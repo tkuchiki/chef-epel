@@ -1,0 +1,3 @@
+default[:epel] = {
+  :action => :install,
+}
